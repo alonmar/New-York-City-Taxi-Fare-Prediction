@@ -1,1 +1,0 @@
-config = {'version': 'v1', 'config': {'mapState': {'latitude': 40.75, 'longitude': -74, 'zoom': 10}}}

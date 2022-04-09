@@ -1,5 +1,4 @@
 pandas
 geopandas
 keplergl
-jupyterlab
-jupyter
+plotnine
